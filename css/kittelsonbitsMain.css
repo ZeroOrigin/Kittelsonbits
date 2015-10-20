@@ -2,7 +2,24 @@
     background-color: black;
 }
 
-.main-container {
-    background-color: white;
-    max-width: 1200px;
+.main-background {
+    background-color: antiquewhite;
+    min-height: 400px;
+}
+
+.main-background h1{
+    text-align: center;
+}
+
+.thumbnail-size {
+	max-height: 100px;
+}
+
+.row-padding {
+	padding: 10px;
+}
+.left-background {
+    background-color: gray;
+    min-height: 200px;
+    margin: 0 auto;
 }
